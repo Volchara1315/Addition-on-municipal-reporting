@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/show_settings"
+        android:orderInCategory="1"
+        android:title="@string/show_settings" />
+    <item
+        android:id="@+id/type_util_settings"
+        android:title="@string/type_util_settings" />
+    <item
+        android:id="@+id/show_month_settings"
+        android:orderInCategory="2"
+        android:title="@string/show_month_settings" />
+    <item
+        android:id="@+id/save_settings"
+        android:orderInCategory="3"
+        android:title="@string/save_settings" />
+    <item
+        android:id="@+id/edit_settings"
+        android:orderInCategory="4"
+        android:title="@string/edit_settings" />
+    <item
+        android:id="@+id/delete_settings"
+        android:orderInCategory="5"
+        android:title="@string/delete_settings" />
+    <item
+        android:id="@+id/delete_all_settings"
+        android:orderInCategory="6"
+        android:title="@string/delete_all_settings" />
+</menu>

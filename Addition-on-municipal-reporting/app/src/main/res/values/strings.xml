@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Комунальна звітність!</string>
+    <string name="button_main_form">Авторизуватися!</string>
+    <string name="text_utilities">Перегляд!</string>
+    <string name="button_save">Додати запис!</string>
+    <string name="text_view_date">Дата!</string>
+    <string name="text_view_sum">Сума оплати (грн):</string>
+    <string name="text_date_actv">Виберіть дату оплати</string>
+    <string name="text_date_new">Виберіть нову дату оплати</string>
+    <string name="utilities">Комунальні послуги:</string>
+    <string name="show_settings">Перегляд всіх записів</string>
+    <string name="show_month_settings">Перегляд записів по місяцям</string>
+    <string name="save_settings">Добавити запис</string>
+    <string name="edit_settings">Редагувати запис</string>
+    <string name="delete_settings">Видалити запис</string>
+    <string name="delete_all_settings">Видалити всі записи</string>
+    <string name="type_util_settings">Пошук за типом витрат</string>
+    <string name="button_exit">Вхід</string>
+    <string name="button_registration">Реєстрація</string>
+    <string name="editText_login">Логін:</string>
+    <string name="editText_pass">Пароль:</string>
+    <string name="textView_authorization">Авторизація</string>
+    <string name="textViewTitle">Розробив студент групи кі-18-1м Шеврін В.В.</string>
+</resources>
